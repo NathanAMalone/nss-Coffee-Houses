@@ -1,0 +1,13 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; /* Evenly space the child elements */
+    
+}
+
+.shop {
+    flex-basis: 16%;
+    border: 1px dotted black;
+    padding-right: 0, 1em, 1em, 0;
+    text-align: left; /* Center align the text in the boxes */
+}
